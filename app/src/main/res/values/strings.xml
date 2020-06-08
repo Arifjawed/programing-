@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">complete topics</string>
+    <string-array name="dish">
+        <item>biryani</item>
+        <item>koramma</item>
+        <item>kharia</item>
+        <item>daal</item>
+    </string-array>
+</resources>
