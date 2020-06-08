@@ -12,6 +12,9 @@ public class alerts_Dialoguess extends AppCompatActivity {
 Button alrtbtn;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+
+        
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_alerts__dialoguess);
         alrtbtn=findViewById(R.id.alrtbox);
